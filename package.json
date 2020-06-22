@@ -1,0 +1,12 @@
+{
+  "name": "gifinator",
+  "version": "1.0.0",
+  "description": "An unstoppable gif making machine",
+  "main": "index.js",
+  "repository": "https://github.com/Yeshwanthyk/gifinator",
+  "author": "Yesh Yendamuri",
+  "license": "MIT",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
